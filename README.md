@@ -10,7 +10,7 @@ The file is made to work with Pterodactyl
 - If you are upgrading it is important that you also change the startup commands manually
 
 ## Other information
-- This file was coppied and pasted from another repository I will leave the link to the original repo below
+- This file was copied and pasted from another repository I will leave the link to the original repo below
 - I simply tweked the file to make compatible with satisfactory 1.0
 - I could not make edits to the original repository because it was archived
 - So I just made a new repository
